@@ -1,0 +1,17 @@
+.container {
+  height: 100%;
+  margin-left: 10px;
+  margin-right: 650px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.searchContainer {
+  margin-left: calc(100%-700);
+  width: 600px;
+  float: right;
+}
